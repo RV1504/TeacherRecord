@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1028223331797",
+    "firebase_url": "https://teacherrecord-fbe34.firebaseio.com",
+    "project_id": "teacherrecord-fbe34",
+    "storage_bucket": "teacherrecord-fbe34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028223331797:android:fdb28b72883e8c72c4615c",
+        "android_client_info": {
+          "package_name": "com.example.teacherrecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028223331797-jcs9ht40akuav5js00ibpp767v3h593k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teacherrecord",
+            "certificate_hash": "dccdcc0b0210e1c58105653ddf8d379a6b372c08"
+          }
+        },
+        {
+          "client_id": "1028223331797-ajoi6okgvsrh7kum5rg8euuanpldmgrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9y-b46AYR0VUukIksdNN2PC-dZsO3814"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028223331797-ajoi6okgvsrh7kum5rg8euuanpldmgrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
